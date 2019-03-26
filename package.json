@@ -1,0 +1,32 @@
+{
+  "name": "ts-redux-router",
+  "version": "1.0.0",
+  "description": "Router for Redux applications powered by Typescript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artursmirnov/ts-redux-router.git"
+  },
+  "keywords": [
+    "typescript",
+    "redux",
+    "router",
+    "url",
+    "query-params"
+  ],
+  "author": "Artur Smirnov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artursmirnov/ts-redux-router/issues"
+  },
+  "homepage": "https://github.com/artursmirnov/ts-redux-router#readme",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
