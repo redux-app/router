@@ -1,5 +1,5 @@
 {
-  "name": "ts-redux-router",
+  "name": "@redux-app/router",
   "version": "1.0.0",
   "description": "Router for Redux applications powered by Typescript",
   "main": "dist/index.js",
@@ -27,6 +27,14 @@
   },
   "homepage": "https://github.com/artursmirnov/ts-redux-router#readme",
   "dependencies": {
+    "@types/history": "^4.7.2",
+    "easy-peasy": "^2.1.1",
+    "history": "^4.9.0",
+    "react": "^16.8.5",
+    "redux": "^4.0.1",
+    "route-recognizer": "^0.3.4"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/react": "^16.8.10"
+  }
 }

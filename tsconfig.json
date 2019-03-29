@@ -13,6 +13,7 @@
     "strictNullChecks": true,
     "experimentalDecorators": true,
     "outDir": "dist",
+    "jsx": "react",
     "declaration": true
   },
   "include": [
